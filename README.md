@@ -20,11 +20,13 @@ func main() {
     p, _ := py.Convert(s)
 
     fmt.Println(p)
+    //Tian Qi Bu Cuo
 
     py.Split = "-"
     py.Upper = false
 
     p, _ = py.Convert(s)
     fmt.Println(p)
+    //tian-qi-bu-cuo
 }
 ```
