@@ -5,7 +5,9 @@ golang-chinese-to-pinyin
 
 install
 --------
+```
 go get github.com/l2x/golang-chinese-to-pinyin
+```
 
 
 example
